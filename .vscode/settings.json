@@ -1,3 +1,5 @@
 {
-  "window.zoomLevel": 0
+  "window.zoomLevel": 0,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always"
 }
