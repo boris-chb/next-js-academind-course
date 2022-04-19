@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-course",
+  "name": "next-js-course-academind",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,5 +11,7 @@
     "next": "10.0.6",
     "react": "17.0.1",
     "react-dom": "17.0.1"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
